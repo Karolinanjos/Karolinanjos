@@ -4,7 +4,7 @@
 
 Me chamo Karolina Anjos, tenho 20 anos e sou apaixonada por tecnologia
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@karolanjos2810">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -25,11 +25,11 @@ Me chamo Karolina Anjos, tenho 20 anos e sou apaixonada por tecnologia
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Karolina Anjos?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Karolina Anjos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
