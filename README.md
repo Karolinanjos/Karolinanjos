@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Karolina Anjos, tenho 20 anos e sou apaixonada por tecnologia
+Me chamo Karolina Anjos, tenho 29 anos e sou apaixonada por tecnologia
 
 ### 🤖 Linguagens e Tecnologias
 
