@@ -44,10 +44,9 @@
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Karolinanjos}/count.svg" /></p> 
-<br>
-  <div align="center">
+  <img src="./cats.svg" alt="gatinhos correndo" />
+</div>
+
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
