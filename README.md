@@ -13,8 +13,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Ciência da Comp
 
 ## ⚙️ Habilidades e Ferramentas
 
-<div align="right">
-  <img src="https://github.com/Karolinanjos/Karolinanjos/assets/91416809/f666b60e-8591-4e42-995b-10f5459a997d" width="140px" style="border-radius: 15px; border: 3px solid #9462a7;" align="right" />
+<div align="right">  
+  <img align="right" width="420" src="https://github.com/user-attachments/assets/46105abe-33d9-4584-8024-944902a22527" />
 </div>
 
 ### 🛠️ Principais Habilidades:
