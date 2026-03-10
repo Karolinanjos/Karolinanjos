@@ -1,61 +1,81 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9462a7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb00ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Karolina+Anjos;I+am+a+student+of+Systems+and+Development+and+CC;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Karolinanjos&show_icons=true&count_private=true&hide_border=true&title_color=bb00ff&icon_color=bb00ff&text_color=c9d1d9&bg_color=0d1117" alt="Karolina Anjos github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karolinanjos&layout=compact&hide_border=true&title_color=bb00ff&text_color=bb00ff&bg_color=0d1117" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=bb00ff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Karolina+Anjos;Sou+estudante+de+ADS+e+Ciência+da+Computação;Seja+Bem-vindo(a)!+:%29" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Karolinanjos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karolinanjos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+## 🚀 Quem sou eu
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Ciência da Computação**. Apaixonada por tecnologia, foco meus estudos no ecossistema Front-end e em transformar ideias em soluções reais através do código.
 
-<div align="center">  
-<a href="https://www.instagram.com/kaah_tryhard/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div> 
- <div align="center">  
-<a href="https://www.linkedin.com/in/karolina-anjos-cc-ads/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+---
+
+## ⚙️ Habilidades e Ferramentas
+
+<div align="right">
+  <img src="https://github.com/Karolinanjos/Karolinanjos/assets/91416809/f666b60e-8591-4e42-995b-10f5459a997d" width="140px" style="border-radius: 15px; border: 3px solid #9462a7;" align="right" />
 </div>
 
-### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+### 🛠️ Principais Habilidades:
+<img src="https://skillicons.dev/icons?i=html,js,py,angular" />
+
+<h3>📚 Conhecimento e Estudo:</h3>
+<img src="https://skillicons.dev/icons?i=css,cs,php,react" />
+
+<h3>🔧 Ferramentas:</h3>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows" />
+
+---
+
+## 🔥 Sequência de Contribuições
 
 <div align="center">
-  <img src="./cats.svg" alt="gatinhos correndo" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karolinanjos&theme=tokyonight"/>
+
 </div>
 
+---
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+## 🎮 Atividade em Tempo Real
 
+<div align="center">
+
+### 🐍 Snake Animation
+
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+### 🕹️ Pacman Animation
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karolinanjos/Karolinanjos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karolinanjos/Karolinanjos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Karolinanjos/Karolinanjos/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karolinanjos/Karolinanjos/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karolinanjos/Karolinanjos/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Karolinanjos/Karolinanjos/output/pacman-contribution-graph.svg">
 </picture>
-  
-  
+
 </div>
+
+---
+
+## 📱 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/karolina-anjos-cc-ads/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/kaah_tryhard/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Karolinanjos.Karolinanjos&color=9462a7" />
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9462a7&height=120&section=footer"/>
